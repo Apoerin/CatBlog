@@ -1,0 +1,112 @@
+
+.nav-item .nav-link {
+    font-size: 1.4em;
+    color: #FFF!important;
+}
+.nav-item .nav-link:hover {
+    color: #b9c3cb!important;
+}
+
+.fa-paw {
+    font-size: 2.4em;
+    color: #836bb0;
+}
+
+.jumbotron {
+    background: url("../img/jumbotron.jpg") no-repeat center;
+    background-size: cover;
+    padding: 10em 0;
+}
+
+.jumbotron .container h1 {
+    color: #FFF;
+    font-size: 4em;
+    text-align: center;
+}
+
+.busido {
+    width: 100%;
+    border-radius: 50%;
+}
+
+.
+
+.fa-heart {
+    font-size: 1.3em;
+    color: #bc0146;
+}
+
+.fa-comment, .fa-eye {
+    font-size: 1.3em;
+    color: #0dabbf;
+}
+.row {
+    justify-content: center;
+}
+
+.blog-title {
+    color: #0c5460;
+    text-align: center;
+    margin: 40px auto;
+}
+.blog .card-link {
+    color: #000000;
+}
+
+.blog .card-link:hover {
+    color: #0c5460;
+}
+
+.card {
+    box-shadow: 0 0 5px rgba(0,0,0,.1);
+}
+
+.card-footer {
+    background-color: #f7fffa;
+}
+
+.list-group-item {
+    border: 1px solid #aaccd2;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px 15px;
+}
+
+.list-group-item i {
+    padding-top: 3px;
+}
+
+.blog span {
+    color: #9fa2a5;
+}
+
+.blog .col-lg-4 {
+    padding: 20px 15px;
+}
+
+.blog .btn {
+    margin: 20px auto;
+    display: flex;
+}
+
+.footer {
+    width: 100%;
+    background-color: #0c5460;
+    padding: 1.5em 0;
+}
+
+.footer .container {
+    display: flex;
+    justify-content: center;
+}
+
+.link {
+    text-decoration: none;
+    font-size: 2.4em;
+    color: #FFF;
+    padding: 0 10px;
+}
+
+.link:hover {
+    color: #b9c3cb;
+}
